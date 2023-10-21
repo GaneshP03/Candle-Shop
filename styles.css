@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-deepBlue{
+    background-color: #02042a;
+}
+
+text-deepBlue{
+    color: #02042a;
+}
